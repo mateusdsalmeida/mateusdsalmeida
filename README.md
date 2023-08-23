@@ -1,5 +1,5 @@
 ## Hello World, I'm Mateus Almeida. 
-#### Welcome to my Github Profile
+#### Welcome to my Profile
 
 <div> 
   <a href="https://www.youtube.com/channel/UC-D1JD94g4r8JI01yHu4wIA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
